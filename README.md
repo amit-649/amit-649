@@ -25,24 +25,16 @@
 ╚═══════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Welcome+to+my+GitHub+Workspace+%F0%9F%8C%90;2nd-Year+BCA+Student+%7C+Aspiring+in+AI+%26+Machine+Learning;Building+Autonomous+Bots+%26+Predictive+Pipelines+%F0%9F%A4%96;Check+out+my+portfolio+at+amitcodes.in+%E2%9C%A8" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Welcome+to+my+GitHub+Workspace+%F0%9F%8C%90;2nd-Year+BCA+Student+%7C+Aspiring+in+AI+%26+ML;Building+Autonomous+Bots+%26+Predictive+Pipelines+%F0%9F%A4%96;Explore+my+portfolio+at+amitcodes.in+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="https://amitcodes.in/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-amitcodes.in-00f7f4?style=for-the-badge&logo=googlechrome&logoColor=black&labelColor=0d1117" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/amit-garai-10a804267" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amit_Garai-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/qr/EEASQ2MOEW73P1" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp" />
-  </a>
-  <a href="mailto:garaiamit64@gmail.com">
-    <img src="https://img.shields.io/badge/Email-garaiamit64@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" />
-  </a>
-  <a href="https://www.instagram.com/itssz.amit" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@itssz.amit-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram" />
-  </a>
+  <a href="https://amitcodes.in/" target="_blank"><img src="https://img.shields.io/badge/🌐_Website-amitcodes.in-38bdf8?style=flat-square&logo=googlechrome&logoColor=black&labelColor=0a0f1d" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/amit-garai-10a804267" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Amit_Garai-0077b5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0f1d" alt="LinkedIn" /></a>
+  <a href="https://wa.me/qr/EEASQ2MOEW73P1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white&labelColor=0a0f1d" alt="WhatsApp" /></a>
+  <a href="mailto:garaiamit64@gmail.com"><img src="https://img.shields.io/badge/Email-garaiamit64@gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0f1d" alt="Email" /></a>
+  <a href="https://www.instagram.com/itssz.amit" target="_blank"><img src="https://img.shields.io/badge/Instagram-@itssz.amit-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=0a0f1d" alt="Instagram" /></a>
 </p>
 
 </div>
