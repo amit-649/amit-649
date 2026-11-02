@@ -194,12 +194,12 @@ Here are some of the open-source projects I've built while learning:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amit-649&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=050811&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8" alt="GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=amit-649&theme=radical&hide_border=true&background=050811&stroke=38bdf8&ring=38bdf8&fire=818cf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=amit-649&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=050811&title_color=38bdf8&text_color=cbd5e1&icon_color=38bdf8" alt="Amit's GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=amit-649&theme=radical&hide_border=true&background=050811&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="Amit's GitHub Streak" />
 
-<br />
+<br /><br />
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amit-649&theme=redical&hide_border=true&bg_color=050811&color=38bdf8&line=818cf8&point=ffffff&area=true&area_color=38bdf8" alt="Activity Graph" />
+<img width="98%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amit-649&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=050811&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" />
 
 </div>
 
